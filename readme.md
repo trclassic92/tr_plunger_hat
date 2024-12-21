@@ -19,6 +19,9 @@ Drag and Drop
 ![Preview Screenshot](https://i.imgur.com/icltQt7.jpeg)
 ![Preview Screenshot](https://i.imgur.com/OF5vgsn.jpeg)
 
+Updated Pictures
+![Preview](https://i.imgur.com/kffdlSf.png)
+
 ## Model Was Made On Twitch
 - [Twitch](https://twitch.tv/trclassic_)
 
